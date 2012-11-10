@@ -2,7 +2,7 @@
 <addon
 	id="repository.tkurbad"
 	name="tkurbad's Repository"
-	version="1.0.1"
+	version="1.0.2"
 	provider-name="Torsten Kurbad">
   <extension
 	point="xbmc.addon.repository"
@@ -14,7 +14,7 @@
 	https://raw.github.com/tkurbad/repository.tkurbad/master/resources/addons.xml.md5
     </checksum>
     <datadir zip="true">
-	http://www.tk-webart.de/xmbc/repository.tkurbad
+	http://www.tk-webart.de/xbmc/repository.tkurbad
     </datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
