@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon
+	id="repository.tkurbad"
+	name="tkurbad's Repository"
+	version="1.0.0"
+	provider-name="Torsten Kurbad">
+  <extension
+	point="xbmc.addon.repository"
+	name="Repo tkurbad">
+    <info>
+	https://raw.github.com/tkurbad/repository.tkurbad/master/addons.xml
+    </info>
+    <checksum>
+	https://raw.github.com/tkurbad/repository.tkurbad/master/addons.xml.md5
+    </checksum>
+    <datadir zip="true">
+	http://www.tk-webart.de/xmbc/repository.tkurbad
+    </datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">
+	tkurbad's Repository, by Torsten Kurbad.
+    </summary>
+    <description lang="en">
+	Repository to keep my XBMC addons updated.
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
