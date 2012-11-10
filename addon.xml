@@ -2,16 +2,16 @@
 <addon
 	id="repository.tkurbad"
 	name="tkurbad's Repository"
-	version="1.0.0"
+	version="1.0.1"
 	provider-name="Torsten Kurbad">
   <extension
 	point="xbmc.addon.repository"
 	name="Repo tkurbad">
     <info>
-	https://raw.github.com/tkurbad/repository.tkurbad/master/addons.xml
+	https://raw.github.com/tkurbad/repository.tkurbad/master/resources/addons.xml
     </info>
     <checksum>
-	https://raw.github.com/tkurbad/repository.tkurbad/master/addons.xml.md5
+	https://raw.github.com/tkurbad/repository.tkurbad/master/resources/addons.xml.md5
     </checksum>
     <datadir zip="true">
 	http://www.tk-webart.de/xmbc/repository.tkurbad
