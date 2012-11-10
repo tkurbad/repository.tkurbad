@@ -1,4 +1,4 @@
-repo.tkurbad
-============
+repository.tkurbad
+==================
 
-My own XBMC addon repository - whoohoo :-)
+My first XBMC addon repository - whoohoo :-)
