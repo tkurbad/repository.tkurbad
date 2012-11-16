@@ -3,7 +3,7 @@
 
 <addon id="script.remoteshutdown"
        name="Remote Shutdown"
-       version="0.3.0"
+       version="0.3.1"
        provider-name="Torsten Kurbad">
   <requires>
     <import addon="xbmc.python" version="2.0" />
