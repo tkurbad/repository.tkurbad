@@ -2,7 +2,7 @@
 <addon
 	id="repository.tkurbad"
 	name="tkurbad's Repository"
-	version="1.0.2"
+	version="1.0.4"
 	provider-name="Torsten Kurbad">
   <extension
 	point="xbmc.addon.repository"
