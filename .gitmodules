@@ -1,0 +1,6 @@
+[submodule "script.remoteshutdown"]
+	path = script.remoteshutdown
+	url = https://github.com/tkurbad/script.remoteshutdown
+[submodule "resources/script.remoteshutdown"]
+	path = resources/script.remoteshutdown
+	url = https://github.com/tkurbad/script.remoteshutdown
